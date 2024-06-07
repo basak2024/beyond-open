@@ -1,0 +1,1 @@
+select * from `dbt-prod-425009`.customer_raw_data.customers
